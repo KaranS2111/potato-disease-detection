@@ -1,0 +1,8 @@
+numpy
+matplotlib
+pillow 
+tensorflow   
+streamlit
+'C:/Users/User/Desktop/Python Projects/potato disease detection/notebooks/training.keras'
+
+
