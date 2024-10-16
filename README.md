@@ -2,6 +2,14 @@
 
 This project leverages Convolutional Neural Networks (CNNs) to classify potato leaf diseases. The primary goal is to develop a robust deep learning model capable of accurately identifying diseases from potato plant leaf images. The solution utilizes Keras and TensorFlow frameworks to build the classification model.
 
+# Results and UI check
+
+- **UI (streamlit)**
+  ![screenshot](ui.png)
+
+- **Results**
+  ![screenshot](result.png)
+
 # Project Overview
 
 Potato plants are vulnerable to various diseases that can drastically affect yield. Early identification is essential for farmers to take preventive measures and minimize crop loss. This project addresses three critical classes for potato leaf disease detection:
