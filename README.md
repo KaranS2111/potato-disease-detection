@@ -8,7 +8,7 @@ This project leverages Convolutional Neural Networks (CNNs) to classify potato l
   ![screenshot](ui.png)
 
 - **Results**
-  ![screenshot](results.png)
+  ![screenshot](/results/results.png)
 
 # Project Overview
 
