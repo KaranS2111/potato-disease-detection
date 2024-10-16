@@ -62,4 +62,4 @@ streamlit run app.py
 - Training accuracy : 98.03
 - Test accuracy : 96.4
 
-#### By Karan Sardar (IIT ROORKEE) Metallurgy
+#### By Karan Sardar (IIT ROORKEE) 
